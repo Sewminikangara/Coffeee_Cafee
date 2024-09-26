@@ -2,6 +2,10 @@
 
 Welcome to the **Coffee Cafe** project! This is a web application designed to provide users with an engaging experience related to coffee.
 
+##**Home page:**
+![Uploading home1 CF.png…]()
+
+
 
 ## Features  
 1.Intuitive Navigation
