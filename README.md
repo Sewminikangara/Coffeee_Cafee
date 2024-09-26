@@ -4,7 +4,7 @@ Welcome to the **Coffee Cafe** project! This is a web application designed to pr
 
 ##**Home page:**
 
-![Alt Text](C:\Users\Dell\OneDrive\Desktop\home1 CF.png)
+![Alt Text](file:///C:/Users/Dell/OneDrive/Documents/Coffee-Cafee/index.html)
 
 ## Features  
 1.Intuitive Navigation
