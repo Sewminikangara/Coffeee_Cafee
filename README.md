@@ -2,10 +2,6 @@
 
 Welcome to the **Coffee Cafe** project! This is a web application designed to provide users with an engaging experience related to coffee.
 
-##**Home page:**
-
-![Alt Text](file:///C:/Users/Dell/OneDrive/Documents/Coffee-Cafee/index.html)
-
 ## Features  
 1.Intuitive Navigation
 2.Fully responsive 
